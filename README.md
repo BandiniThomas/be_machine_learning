@@ -1,1 +1,1 @@
-"# be_machine_learning" 
+Voici le travail pratique du cours machine learning
